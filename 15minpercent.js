@@ -17,7 +17,7 @@ setInterval(() => {
             th1.textContent = 'Symbol';
             th2.textContent = 'Last Price';
             th3.textContent = 'New Price';
-            th4.textContent = 'Price Change + ' ' + '15min';
+            th4.textContent = 'Price Change' + ' ' + '15min';
 
             trheader.appendChild(th1);
             trheader.appendChild(th2);
